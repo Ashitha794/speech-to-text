@@ -1,0 +1,10 @@
+streamlit
+streamlit-webrtc
+speechrecognition
+numpy
+pandas
+librosa
+scikit-learn
+joblib
+pydub
+av
